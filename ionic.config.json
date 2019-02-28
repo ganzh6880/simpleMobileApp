@@ -1,5 +1,7 @@
 {
   "name": "simpleMobileApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
